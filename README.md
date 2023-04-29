@@ -21,3 +21,8 @@ Object motion animation: Skeleton hand.
 
 Original powerpoint with sources for everything:
 https://docs.google.com/presentation/d/1b7jgtfb8MXbtMkKkfLm4wKdH-KzrmdG-qUUH7z9-HjU/edit?usp=sharing
+
+Dungeon image – random dungeon crawler image I found on Google..
+Skeleton model – downloaded from SketchFab, modified/given lineart in Blender by me.
+Zatusnen Logo/Sound effect – Me, done in GIMP and Audacity
+Music – Done by me in FL Studio.
