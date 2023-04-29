@@ -18,3 +18,6 @@ Multiline text block: See scene 2, there's two of them.
 Fading scene transition: All over the place.
 
 Object motion animation: Skeleton hand.
+
+Original powerpoint with sources for everything:
+https://docs.google.com/presentation/d/1b7jgtfb8MXbtMkKkfLm4wKdH-KzrmdG-qUUH7z9-HjU/edit?usp=sharing
